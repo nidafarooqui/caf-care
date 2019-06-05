@@ -2,11 +2,11 @@ const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Serif',
-    description: 'my theme',
+    title: 'CAF Care Medical Ltd',
+    description: 'Driver Medical Fitness',
     contact: {
-      phone: 'XXX XXX XXX',
-      email: 'zerostaticthemes@gmail.com',
+      phone: '+447447595703',
+      email: 'info@cafcare.com',
     },
     menuLinks: [
       {
@@ -56,7 +56,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
-        trackingId: guid ? guid : 'UA-XXX-1',
+        trackingId: guid || 'UA-XXX-1',
         // Puts tracking script in the head instead of the body
         head: false,
       },

@@ -1,11 +1,12 @@
 .header {
-  height: 50px;
-  color: $primary;
-  background-color: #ffffff;
+  margin-left: -4em;
+  margin-top: 1px;
+  color: $secondary;
+  //background-color: #ffffff;
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
-  box-shadow: 0 1px 15px rgba(50, 50, 93, 0.2);
+  box-shadow: 0 1px 15px rgba(50, 50, 93, 0);
   .container {
     display: flex;
     justify-content: space-between;

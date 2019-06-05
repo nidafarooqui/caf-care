@@ -20,9 +20,9 @@ const Footer = props => (
               <li className="copyright">
                 ©
 {' '}
-{new Date().getFullYear()}
-{' '}
-{props.data.site.siteMetadata.title}
+                {new Date().getFullYear()}
+                {' '}
+                {props.data.site.siteMetadata.title}
               </li>
             </ul>
           </div>
