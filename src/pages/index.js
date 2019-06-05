@@ -36,7 +36,7 @@ const Home = (props) => {
 
       <div className="container pt-2">
         <div className="call-box-bottom">
-          <a href="/book-appointmen" className="button">
+          <a href="/book-appointment" className="button">
             Book an Appointment Online
           </a>
         </div>
@@ -122,7 +122,7 @@ const Home = (props) => {
         </div>
       </div>
 
-      <div className="container pt-md-7 pb-md-7 mt-3">
+      <div className="container pt-md-5 pb-md-5 mt-3">
         <div className="row justify-content-left">
           <div className="col-12">
             <h2 className="title-3 text-dark mb-6">What to bring with you</h2>
@@ -150,7 +150,7 @@ const Home = (props) => {
           </ul>
         </div>
       </div>
-      <div className="container pb-5 pt-md-7 pb-md-7">
+      <div className="container pb-5 pt-md-5 pb-md-5">
         <div className="row justify-content-left">
           <div className="col-12">
             <h2 className="title-3 text-dark mb-6">Where are we Located?</h2>
