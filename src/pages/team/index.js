@@ -14,8 +14,7 @@ const Team = (props) => {
             <div className="col-12">
               <h1>Meet The Team</h1>
               <p>
-                Our team of qualified accountants and financial consultants can help your business
-                at any stage of it’s growth.
+                Our panel of doctors are experts in providing medical examination services to professional drivers, whether that be for a Taxi, Lorry, Bus or Fork Lift Operator. All the doctors hold registration with the General Medical Council of United Kingdom and have a licence to practice in the United Kingdom.
               </p>
             </div>
           </div>
