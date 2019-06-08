@@ -69,13 +69,3 @@ If you have any questions, you can contact us at
 <a href="mailto:info@cafcare.com">
 info@cafcare.com
 </a>
-
-###How Do You Book an Appointment?
-You can book an appointment through two ways:
-
-1. By booking online and paying securely through PayPal
-2. By calling us at +447447595703 to schedule your appointment.
-
-If you book online, you can select your own appointment date or call us and have us do it for you.
-
-If you need an urgent appointment, you'll need to call us at +447447595703 to arrange one.

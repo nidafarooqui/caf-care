@@ -9,6 +9,21 @@ draft: false
 
 You don't have to pay a fortune to book a PCO Medical/Taxi Driver medical. We charge £40 for an appointment which you can book online or by calling us. The entire process takes about 30 minutes. We provide an eye test as well.
 
+## How Do You Book an Appointment?
+
+You can book an appointment through two ways:
+
+1. By <a href="/book-appointment">booking online </a> and paying securely through PayPal
+2. By calling us at <a href="tel:+447447595703">
+   +447447595703
+   </a> to schedule your appointment.
+
+If you book online, you can select your own appointment date or call us and have us do it for you.
+
+If you need an urgent appointment, you'll need to call us at <a href="tel:+447447595703">
++447447595703
+</a> to arrange one.
+
 ## List of Items to Bring
 
 There are a couple of things you need to bring with you for the medical.
@@ -20,20 +35,6 @@ There are a couple of things you need to bring with you for the medical.
 5. <span style="text-decoration:underline;"><a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/607177/d4-medical-examiner-report-for-a-lorry-or-bus-driving-licence.pdf" target="_blank" data-content="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/607177/d4-medical-examiner-report-for-a-lorry-or-bus-driving-licence.pdf" data-type="external" rel="undefined"><span>A DVLA Standard 2 Medical Form</span></a></span>
 
 A D4 medical form will be provided to you on that day but you may also download it and bring it with you if you like.
-
-A D4 medical form will be provided to you on that day.
-
-<div className="container pt-md-7 pb-md-7 mt-3">
-        <div className="row justify-content-center bg-warning pl-1">
-          <div className="col-12">
-            <div className="call-box-bottom pb-1">
-              <a href="tel:+44-7447-595703" className="button-dark">
-                Book Online Now
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
 
 ## What to Expect
 
@@ -69,13 +70,3 @@ If you have any questions, you can contact us at
 <a href="mailto:info@cafcare.com">
 info@cafcare.com
 </a>
-
-###How Do You Book an Appointment?
-You can book an appointment through two ways:
-
-1. By booking online and paying securely through PayPal
-2. By calling us at +447447595703 to schedule your appointment.
-
-If you book online, you can select your own appointment date or call us and have us do it for you.
-
-If you need an urgent appointment, you'll need to call us at +447447595703 to arrange one.
