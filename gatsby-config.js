@@ -10,11 +10,15 @@ module.exports = {
     },
     menuLinks: [
       {
+        name: 'Book Now',
+        link: '/book-appointment',
+      },
+      {
         name: 'Services',
         link: '/services',
       },
       {
-        name: 'Team',
+        name: 'About',
         link: '/team',
       },
       {

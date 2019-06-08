@@ -12,9 +12,9 @@ const Team = (props) => {
         <div className="container">
           <div className="row">
             <div className="col-12">
-              <h1>Meet The Team</h1>
+              <h1>About Us</h1>
               <p>
-                Our panel of doctors are experts in providing medical examination services to professional drivers, whether that be for a Taxi, Lorry, Bus or Fork Lift Operator. All the doctors hold registration with the General Medical Council of United Kingdom and have a licence to practice in the United Kingdom.
+                We are experts in providing medical examination services to professional drivers, whether that be for a Taxi, Lorry, Bus or Fork Lift Operator. All the doctors hold registration with the General Medical Council of United Kingdom and have a licence to practice in the United Kingdom.
               </p>
             </div>
           </div>
@@ -43,14 +43,6 @@ const Team = (props) => {
                     <ul className="card-meta">
                       <li>
                         <strong>{edge.node.frontmatter.jobtitle}</strong>
-                      </li>
-                      <li>
-                        <a target="_blank" href={edge.node.frontmatter.linkedinurl}>
-                          {edge.node.frontmatter.linkedinurl}
-                        </a>
-                      </li>
-                      <li>
-                        <a href={edge.node.frontmatter.email}>{edge.node.frontmatter.email}</a>
                       </li>
                     </ul>
                   </div>
@@ -82,8 +74,6 @@ export const query = graphql`
             path
             image
             jobtitle
-            linkedinurl
-            email
           }
         }
       }

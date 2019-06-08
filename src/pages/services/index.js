@@ -2,6 +2,7 @@ import React from 'react';
 import { Link, graphql } from 'gatsby';
 import SEO from '../../components/SEO';
 import Layout from '../../layouts/index';
+// import '../../scss/style.scss';
 
 const Services = (props) => {
   const services = props.data.allMarkdownRemark.edges;
@@ -17,6 +18,7 @@ const Services = (props) => {
           </div>
         </div>
       </div>
+
 
       <div className="container pb-6">
         <div className="row">
