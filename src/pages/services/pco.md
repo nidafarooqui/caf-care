@@ -17,6 +17,9 @@ There are a couple of things you need to bring with you for the medical.
 2. Driving glasses or contact lenses.
 3. A list of your regular medicines.
 4. A urine sample
+5. <span style="text-decoration:underline;"><a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/607177/d4-medical-examiner-report-for-a-lorry-or-bus-driving-licence.pdf" target="_blank" data-content="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/607177/d4-medical-examiner-report-for-a-lorry-or-bus-driving-licence.pdf" data-type="external" rel="undefined"><span>A DVLA Standard 2 Medical Form</span></a></span>
+
+A D4 medical form will be provided to you on that day but you may also download it and bring it with you if you like.
 
 A D4 medical form will be provided to you on that day.
 

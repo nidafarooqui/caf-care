@@ -10,6 +10,10 @@ module.exports = {
     },
     menuLinks: [
       {
+        name: 'Home',
+        link: '/',
+      },
+      {
         name: 'Book Now',
         link: '/book-appointment',
       },
