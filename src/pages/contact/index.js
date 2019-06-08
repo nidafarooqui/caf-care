@@ -26,45 +26,45 @@ const Contact = props => (
             <tbody>
               <tr>
                 <td className="day font-weight-bold">Monday</td>
-                <td className="opens">2:30am</td>
+                <td className="opens">2:30pm</td>
                 <td>-</td>
-                <td className="closes">5:00pm</td>
+                <td className="closes">4:30pm</td>
               </tr>
               <tr>
                 <td className="day font-weight-bold">Tuesday</td>
-                <td className="opens">2:30am</td>
+                <td className="opens">2:30pm</td>
                 <td>-</td>
-                <td className="closes">5:00pm</td>
+                <td className="closes">4:30pm</td>
               </tr>
               <tr>
                 <td className="day font-weight-bold">Wednesday</td>
-                <td className="opens">2:30am</td>
+                <td className="opens">2:30pm</td>
                 <td>-</td>
-                <td className="closes">5:00pm</td>
+                <td className="closes">4:30pm</td>
               </tr>
               <tr>
                 <td className="day font-weight-bold">Thursday</td>
-                <td className="opens">2:30am</td>
+                <td className="opens">2:30pm</td>
                 <td>-</td>
-                <td className="closes">5:00pm</td>
+                <td className="closes">4:30pm</td>
               </tr>
               <tr>
                 <td className="day font-weight-bold">Friday</td>
-                <td className="opens">2:30am</td>
+                <td className="opens">2:30pm</td>
                 <td>-</td>
-                <td className="closes">5:00pm</td>
+                <td className="closes">4:30pm</td>
               </tr>
               <tr>
                 <td className="day font-weight-bold">Saturday</td>
-                <td className="opens">8:30am</td>
+                <td className="opens">9:00am</td>
                 <td>-</td>
-                <td className="closes">5:00pm</td>
+                <td className="closes">5:30pm</td>
               </tr>
               <tr>
                 <td className="day font-weight-bold">Sunday</td>
-                <td className="opens">8:30am</td>
+                <td className="opens">9:00am</td>
                 <td>-</td>
-                <td className="closes">5:00pm</td>
+                <td className="closes">5:30pm</td>
               </tr>
             </tbody>
           </table>
