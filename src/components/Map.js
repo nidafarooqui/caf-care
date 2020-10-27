@@ -43,7 +43,7 @@ export class MapContainer extends Component {
             >
                 <Marker
                     onClick={this.onMarkerClick}
-                    name="Care Medical"
+                    name="Driver Medical Fitness"
                 />
                 <InfoWindow
                     marker={this.state.activeMarker}
