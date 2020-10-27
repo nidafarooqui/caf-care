@@ -37,13 +37,13 @@ export class MapContainer extends Component {
                 zoom={15}
                 style={mapStyles}
                 initialCenter={{
-                  lat: 55.9019298,
-                  lng: -3.4518249,
+                  lat: 55.888998,
+                  lng: -3.429127,
                 }}
             >
                 <Marker
                     onClick={this.onMarkerClick}
-                    name="CAF Care Medical Ltd"
+                    name="Care Medical"
                 />
                 <InfoWindow
                     marker={this.state.activeMarker}
@@ -55,13 +55,13 @@ export class MapContainer extends Component {
                         <div style={{
                           borderTop: '1px solid rgb(204, 204, 204)', marginTop: '9px', padding: '6px', fontSize: '13px', textOverflow: 'ellipsis', overflow: 'hidden', whiteSpace: 'nowrap',
                         }}>
-                            <a href="https://www.google.com/maps/place/CAF+Care+LTD/@55.9019298,-3.4518249,21z/data=!4m12!1m6!3m5!1s0x0:0x66ff00df9332d0c6!2sCAF+Care+LTD!8m2!3d55.9019761!4d-3.4518634!3m4!1s0x0:0x66ff00df9332d0c6!8m2!3d55.9019761!4d-3.4518634" target="_blank" rel="noopener" style={{ cursor: 'pointer', color: 'rgb(66, 127, 237)', textDecoration: 'none' }}>View on Google Maps</a>
+                            <a href="https://www.google.com/maps/place/D+J+Carnochan+Joinery/@55.8889898,-3.4295142,19z/data=!3m1!4b1!4m5!3m4!1s0x4887db5f9ce805b5:0xf1e47f64946b425d!8m2!3d55.888989!4d-3.428967" target="_blank" rel="noopener" style={{ cursor: 'pointer', color: 'rgb(66, 127, 237)', textDecoration: 'none' }}>View on Google Maps</a>
 
                         </div>
                         <div style={{
                           borderBottom: '1px solid rgb(204, 204, 204)', marginTop: '2px', padding: '6px', fontSize: '13px', textOverflow: 'ellipsis', overflow: 'hidden', whiteSpace: 'nowrap',
                         }}>
-                            <a href="https://www.google.com/maps/dir//CAF+Care+LTD/data=!4m8!4m7!1m0!1m5!1m1!1s0x4887db7a7b101827:0x66ff00df9332d0c6!2m2!1d-3.4518633999999997!2d55.9019761" target="_blank" rel="noopener" style={{ cursor: 'pointer', color: 'rgb(66, 127, 237)', textDecoration: 'none' }}>Get Directions</a>
+                            <a href="https://www.google.com/maps/dir//D+J+Carnochan+Joinery,+Braekirk+Gardens,+Kirknewton+EH27+8BT/@55.8889898,-3.4295142,19z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4887db5f9ce805b5:0xf1e47f64946b425d!2m2!1d-3.428967!2d55.888989!3e0" target="_blank" rel="noopener" style={{ cursor: 'pointer', color: 'rgb(66, 127, 237)', textDecoration: 'none' }}>Get Directions</a>
                         </div>
 
                     </div>
